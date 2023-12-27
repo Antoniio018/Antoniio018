@@ -4,7 +4,7 @@
 </br>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 </br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)]()
 </br>
 <!--
 **Antoniio018/Antoniio018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
