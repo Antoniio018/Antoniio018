@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hola me llamo Antonio 👋
+Desarrollador en proceso, estudiando en IES Los Montecillos.
 ## Tecnologías:
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
