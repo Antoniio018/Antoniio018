@@ -16,7 +16,6 @@ Desarrollador en proceso, estudiando en IES Los Montecillos.
 ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge)
 <!--
 **Antoniio018/Antoniio018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-25- Repositorio personal, curso de GIT y GITHUB mouredev de 5h
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
